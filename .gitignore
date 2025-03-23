@@ -1,2 +1,5 @@
+.aws-sam
+env.*
+lib
 node_modules
 package-lock.json
